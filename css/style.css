@@ -54,6 +54,10 @@ div{
     border-width: 2px 5px 0 0;
     margin-right: 50px;
     text-align: left;
+    
+}
+
+.blue h2, .blue p{
     color: #c4c4c4;
 }
 
